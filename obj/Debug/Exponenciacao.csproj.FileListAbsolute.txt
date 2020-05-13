@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Exponenciacao\bin\Debug\Exponenciacao.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Exponenciacao\bin\Debug\Exponenciacao.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Exponenciacao\bin\Debug\Exponenciacao.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Exponenciacao\obj\Debug\Exponenciacao.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Exponenciacao\obj\Debug\Exponenciacao.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\Exponenciacao\obj\Debug\Exponenciacao.pdb
