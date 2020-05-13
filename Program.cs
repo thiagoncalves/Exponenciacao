@@ -10,14 +10,14 @@ namespace Exponenciacao
     {
         static void Main(string[] args)
         {
-            int basee;
+            int laischatapqp;
             int expoente;
             int total = 1;
 
             Console.WriteLine("Olá, vamos fazer uma conta exponencial? ");
 
             Console.Write("Digite o número da base: ");
-            basee = Convert.ToInt32(Console.ReadLine());
+            laischatapqp = Convert.ToInt32(Console.ReadLine());
 
             Console.Clear();
 
@@ -28,7 +28,7 @@ namespace Exponenciacao
 
             for (int i = 1; i <= expoente; i++)
             {
-                total *= basee;
+                total *= laischatapqp;
             }
 
             Console.WriteLine("O valor total da exponenciação: " + total);
